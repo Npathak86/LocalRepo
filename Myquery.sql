@@ -1,0 +1,1 @@
+Select * from rcm_extended.rcm_datamart.dim_facility
